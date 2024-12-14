@@ -1,4 +1,4 @@
-# The Program Counter (PC) knows the first address of the program (where execution begins) 
+# The Program Counter (PC) knows the first address of the program (where execution begins) **point3 is imp**
 
 Here’s how the **Program Counter (PC)** knows the first address:
 
